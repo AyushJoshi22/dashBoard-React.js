@@ -6,6 +6,8 @@ Created a Admin Dashboard using React.js having the features of
 - clender
 - kanban board
 
+For styling purpose, I have used tailwind CSS
+
 
 
 # Setup Instruction
