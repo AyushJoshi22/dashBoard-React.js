@@ -1,12 +1,21 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+# React Admin Dashboard 
+Created a Admin Dashboard using React.js having the features of 
+- themes
+- tables
+- charts
+- clender
+- kanban board
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+# Setup Instruction
+## 1- Clone the repository:
+    git clone https://github.com/AyushJoshi22/React-ToDo-app.git
+## 2- Navigate to the project directory:
+    cd dashboard
+## 3- Install dependencies:
+    npm install
+## 4- Run the application:
+    npm start
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Open the application in your browser at http://localhost:3000
